@@ -5858,11 +5858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S533897\\Documents\\SEMESTER 2\\C#.NET\\Program2MVC\\Program2MVC\\tests\\FunctionalTests\\FunctionalTests.csproj",
+      "projectUniqueName": "C:\\Users\\S533897\\Desktop\\Program2MVC\\Program2MVC\\tests\\FunctionalTests\\FunctionalTests.csproj",
       "projectName": "FunctionalTests",
-      "projectPath": "C:\\Users\\S533897\\Documents\\SEMESTER 2\\C#.NET\\Program2MVC\\Program2MVC\\tests\\FunctionalTests\\FunctionalTests.csproj",
+      "projectPath": "C:\\Users\\S533897\\Desktop\\Program2MVC\\Program2MVC\\tests\\FunctionalTests\\FunctionalTests.csproj",
       "packagesPath": "C:\\Users\\S533897\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S533897\\Documents\\SEMESTER 2\\C#.NET\\Program2MVC\\Program2MVC\\tests\\FunctionalTests\\obj\\",
+      "outputPath": "C:\\Users\\S533897\\Desktop\\Program2MVC\\Program2MVC\\tests\\FunctionalTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
